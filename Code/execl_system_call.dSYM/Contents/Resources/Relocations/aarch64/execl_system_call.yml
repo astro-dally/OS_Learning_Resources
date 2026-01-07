@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/dally/OS_Learning_Resources/Code/execl_system_call'
+relocations:     []
+...
